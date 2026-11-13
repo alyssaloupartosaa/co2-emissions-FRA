@@ -87,8 +87,16 @@ data/ – Contains the filtered France CO2 dataset.
 
 scripts/ – Contains the R analysis script.
 
-figures/ – Contains the generated graphs.
+figures/ – ## Figures
 
+### Annual CO2 Emissions
+![Annual CO2 Emissions](figures/FRA_annual_co2.png)
+
+### CO2 Emissions Per Capita
+![CO2 Emissions Per Capita](figures/FRA_per_capita.png)
+
+### Annual Percentage Change
+![Annual Percentage Change](figures/FRA_annual_change.png)
 results/ – Contains summary statistics and yearly changes.
 
 co2-emissions-FRA.Rproj – RStudio project file.
